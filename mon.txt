@@ -1,2 +1,3 @@
 monday is sunny day.
 fix by shawly24
+我添加了ssh免密登录了！
